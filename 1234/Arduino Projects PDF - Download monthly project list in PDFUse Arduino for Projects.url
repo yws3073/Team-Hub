@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://duino4projects.com/arduino-projects-pdf/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://duino4projects.com/arduino-projects-pdf/
+IDList=
+IconFile=http://duino4projects.com/wp-content/uploads/2013/03/favicon.ico
+IconIndex=1
